@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Step 1: Load the dataset
-file_path = "File_Path"
+file_path = "C:/Users/Hardik/Documents/Projects/Apex_Data_Analytics/dataset/ApexPlanet_DataAnalytics_Dataset.xlsx"
 
 df = pd.read_excel(file_path)
 
